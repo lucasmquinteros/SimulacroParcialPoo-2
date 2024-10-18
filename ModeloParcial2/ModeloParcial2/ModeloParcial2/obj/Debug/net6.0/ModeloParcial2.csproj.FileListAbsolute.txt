@@ -1,0 +1,14 @@
+C:\Users\lmartiniquinteros\Desktop\ModeloParcial2\ModeloParcial2\ModeloParcial2\obj\Debug\net6.0\ModeloParcial2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lmartiniquinteros\Desktop\ModeloParcial2\ModeloParcial2\ModeloParcial2\obj\Debug\net6.0\ModeloParcial2.AssemblyInfoInputs.cache
+C:\Users\lmartiniquinteros\Desktop\ModeloParcial2\ModeloParcial2\ModeloParcial2\obj\Debug\net6.0\ModeloParcial2.AssemblyInfo.cs
+C:\Users\lmartiniquinteros\Desktop\ModeloParcial2\ModeloParcial2\ModeloParcial2\obj\Debug\net6.0\ModeloParcial2.csproj.CoreCompileInputs.cache
+C:\Users\lmartiniquinteros\Desktop\ModeloParcial2\ModeloParcial2\ModeloParcial2\bin\Debug\net6.0\ModeloParcial2.exe
+C:\Users\lmartiniquinteros\Desktop\ModeloParcial2\ModeloParcial2\ModeloParcial2\bin\Debug\net6.0\ModeloParcial2.deps.json
+C:\Users\lmartiniquinteros\Desktop\ModeloParcial2\ModeloParcial2\ModeloParcial2\bin\Debug\net6.0\ModeloParcial2.runtimeconfig.json
+C:\Users\lmartiniquinteros\Desktop\ModeloParcial2\ModeloParcial2\ModeloParcial2\bin\Debug\net6.0\ModeloParcial2.dll
+C:\Users\lmartiniquinteros\Desktop\ModeloParcial2\ModeloParcial2\ModeloParcial2\bin\Debug\net6.0\ModeloParcial2.pdb
+C:\Users\lmartiniquinteros\Desktop\ModeloParcial2\ModeloParcial2\ModeloParcial2\obj\Debug\net6.0\ModeloParcial2.dll
+C:\Users\lmartiniquinteros\Desktop\ModeloParcial2\ModeloParcial2\ModeloParcial2\obj\Debug\net6.0\refint\ModeloParcial2.dll
+C:\Users\lmartiniquinteros\Desktop\ModeloParcial2\ModeloParcial2\ModeloParcial2\obj\Debug\net6.0\ModeloParcial2.pdb
+C:\Users\lmartiniquinteros\Desktop\ModeloParcial2\ModeloParcial2\ModeloParcial2\obj\Debug\net6.0\ModeloParcial2.genruntimeconfig.cache
+C:\Users\lmartiniquinteros\Desktop\ModeloParcial2\ModeloParcial2\ModeloParcial2\obj\Debug\net6.0\ref\ModeloParcial2.dll
